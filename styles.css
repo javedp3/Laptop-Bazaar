@@ -1,0 +1,19 @@
+a.active {
+  color: white;
+}
+a:hover:not(.active) {
+  color: white;
+}
+.Our-laptops:hover{  background-color:rgba(0,0,0,100);  }
+
+h2{ background-color: rgb(237, 180, 211);
+	font-style: Arial Verdana;
+	text-align: center;
+	color: white;
+ margin: 0px; 
+	padding: 8px;}
+
+
+
+
+
